@@ -1,8 +1,8 @@
 {
-  "name": "lambda-forms",
-  "description": "The best way to handle forms on static websites.",
+  "name": "gatsby-typescript-template",
+  "description": "gatsby-typescript-template",
   "version": "1.0.0",
-  "author": "@mattersupply.co",
+  "author": "jasmo2",
   "dependencies": {
     "@emotion/core": "^10.0.27",
     "@emotion/styled": "^10.0.27",
@@ -21,7 +21,7 @@
     "react-helmet": "^5.2.1"
   },
   "keywords": [
-    "gatsby, typescript, canyoncoolers"
+    "gatsby, typescript, reactJS"
   ],
   "license": "MIT",
   "scripts": {
